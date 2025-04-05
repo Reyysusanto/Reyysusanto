@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rheinaldy Susanto</h1>
 <h3 align="center">A passionate front-end and now still study front-end and back-end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyysusanto&label=Profile%20views&color=0e75b6&style=flat" alt="reyysusanto" /> </p>
-
 - 🌱 I’m currently learning **Flutter, Node JS, and Laravel**
 
 - 📫 How to reach me **rheinaldysusanto@gmail.com**

@@ -81,7 +81,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Reyysusanto/Reyysusanto/output/snake.svg?v=1" alt="Snake animation" />
-
+<!--
+  <img src="https://raw.githubusercontent.com/Reyysusanto/Reyysusanto/output/snake.svg?v=1" alt="Snake animation" />
+-->
 ###

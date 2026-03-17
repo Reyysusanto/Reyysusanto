@@ -14,7 +14,7 @@ jobs:
 
       - name: Generate GitHub Stats
         run: |
-          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \"https://github-readme-stats.vercel.app/api?username=Reyysusanto&count_private=true&include_all_commits=true&theme=dracula" \ -o stats.svg
+          curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \"https://github-readme-stats.vercel.app/api?username=Reyysusanto&count_private=false&include_all_commits=false&theme=dracula" \ -o stats.svg
 
       - name: Commit & Push
         run: |

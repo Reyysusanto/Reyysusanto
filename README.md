@@ -10,11 +10,11 @@ I'm Rheinaldy — a final-year Information Systems student with a strong passion
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Reyysusanto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Reyysusanto&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reyysusanto&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=Reyysusanto&theme=material-palenight&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyysusanto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyysusanto&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
